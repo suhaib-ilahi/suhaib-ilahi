@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, Myself Suhaib Ilahi</h1>
-<h3 align="center">Aspiring Computer Science Engineer</h3>
+<h3 align="center">Aspiring Web Developer,ML & Blockchain Enthusiast</h3>
 
 <img src="https://media1.giphy.com/media/v1.Y2lkPTc5MGI3NjExd3owNmZubjJobzYxcWwzbXU5dXljemtpajN6cWRxN3l2a3B2dnZyOCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/lP8xu5t2DLGG045H8F/giphy.webp" align="right" width="400px" >
 
@@ -12,7 +12,7 @@
 
 - ⚡ Fun fact **I think I can do anything if I am willing to do it....😁😅**
   
-- Currently in **First Year**
+- Currently Sophomore
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
