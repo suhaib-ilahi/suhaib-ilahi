@@ -6,11 +6,9 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=suhaib-ilahi&label=Profile%20views&color=0e75b6&style=flat" alt="suhaib-ilahi" /> </p>
 
-- 🌱 I’m currently learning **Mern stack**
+- 🌱 I’m currently implementing **Mern stack**
 
 - 📫 How to reach me **suhaib.elahi87@gmail.com**
-
-- ⚡ Fun fact **I think I can do anything if I am willing to do it....😁😅**
   
 - Currently Sophomore
 
